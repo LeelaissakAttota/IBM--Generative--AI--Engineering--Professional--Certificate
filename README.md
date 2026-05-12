@@ -100,7 +100,6 @@ of Generative AI solutions**: design, development, evaluation, and deployment.
 | IBM Generative AI Engineering Professional Certificate | IBM | Coursera |
 | IBM Data Science Professional Certificate | IBM | Coursera |
 | IBM Generative AI Professional Certificate | IBM | Coursera |
-| IBM Agentic AI with RAG Certificate | IBM | Coursera |
 | IBM RAG and Agentic AI Professional Certificate | IBM | Coursera |
 
 ---
